@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![AridArab's GitHub stats](https://github-readme-stats.vercel.app/api?username=AridArab&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AridArab)](https://github.com/AridArab/github-readme-stats)
