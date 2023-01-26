@@ -1,3 +1,4 @@
+![alt text](https://img.freepik.com/free-vector/gradient-abstract-mountain-background-design_23-2149178797.jpg)
 # Welcome to my profile!
 ## Languages I know
 - Python
